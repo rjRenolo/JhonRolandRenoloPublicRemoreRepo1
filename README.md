@@ -3,4 +3,4 @@
 Readme Update for Lab1
 
 malcolm has collaberated on this file.
-conflict test FROM LOCAL.
+conflict test REMOTE CHANGES
